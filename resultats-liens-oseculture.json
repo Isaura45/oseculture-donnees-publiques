@@ -1,0 +1,154 @@
+[
+  {
+    "id": "93994442",
+    "titre": "Cycles de formation à l'abeille et l'apiculture",
+    "date": "2026-11-14T08:30:00+00:00",
+    "lienOriginal": "https://www.abeille-olivetaine.fr/page/2954583-formulaires-d-adhesions",
+    "statut": "non_verifie",
+    "urlFinale": "https://www.abeille-olivetaine.fr/page/2954583-formulaires-d-adhesions",
+    "titrePage": "Formulaires d&#039;adhésions | L&#039;Abeille Olivetaine",
+    "anneePresente": true,
+    "verificationDate": "non_confirmee",
+    "dateCorrespondante": false,
+    "dateURLContradictoire": false,
+    "heureCorrespondante": false,
+    "plateformeBilletterie": false,
+    "statutReservation": "a_verifier"
+  },
+  {
+    "id": "77418412",
+    "titre": "Atelier IMAGO : mieux communiquer en couple",
+    "date": "2026-11-14T08:30:00+00:00",
+    "lienOriginal": "https://www.familya.fr/nos-ateliers/orleans/methode-imago-initiation-a-la-communication-de-couple/",
+    "statut": "inaccessible",
+    "url": "https://www.familya.fr/nos-ateliers/orleans/methode-imago-initiation-a-la-communication-de-couple/"
+  },
+  {
+    "id": "14359657",
+    "titre": "Soutien Numérique Personnalisé",
+    "date": "2026-11-14T09:00:00+00:00",
+    "lienOriginal": "https://mediatheques.orleans.fr/cms/articleview/open_agenda_uid/14359657",
+    "statut": "erreur",
+    "message": "TypeError: fetch failed"
+  },
+  {
+    "id": "89613952",
+    "titre": "Réveil livres de 0 à 18 mois",
+    "date": "2026-11-14T09:15:00+00:00",
+    "lienOriginal": "https://mediatheques.orleans.fr/cms/articleview/open_agenda_uid/89613952",
+    "statut": "erreur",
+    "message": "TypeError: fetch failed"
+  },
+  {
+    "id": "52442479",
+    "titre": "1, 2, 3 Raconte-moi !",
+    "date": "2026-11-14T09:30:00+00:00",
+    "lienOriginal": "https://bibliotheques.fleurylesaubrais.fr/",
+    "statut": "inaccessible",
+    "url": "https://bibliotheques.fleurylesaubrais.fr/"
+  },
+  {
+    "id": "66199799",
+    "titre": "Réveil livres de 18 mois à 3 ans",
+    "date": "2026-11-14T10:00:00+00:00",
+    "lienOriginal": "https://mediatheques.orleans.fr/cms/articleview/open_agenda_uid/66199799",
+    "statut": "erreur",
+    "message": "TypeError: fetch failed"
+  },
+  {
+    "id": "80977332",
+    "titre": "Soutien Numérique Personnalisé",
+    "date": "2026-11-14T10:00:00+00:00",
+    "lienOriginal": "https://mediatheques.orleans.fr/cms/articleview/open_agenda_uid/80977332",
+    "statut": "erreur",
+    "message": "TypeError: fetch failed"
+  },
+  {
+    "id": "68550384",
+    "titre": "Journée bien-être",
+    "date": "2026-11-14T13:00:00+00:00",
+    "lienOriginal": "https://www.helloasso.com/associations/des-reves-pour-yanis/evenements/journee-bien-etre",
+    "statut": "inaccessible",
+    "url": "https://www.helloasso.com/associations/des-reves-pour-yanis/evenements/journee-bien-etre"
+  },
+  {
+    "id": "45240198",
+    "titre": "Forum lecture",
+    "date": "2026-11-14T13:00:00+00:00",
+    "lienOriginal": "http://olivet.fr",
+    "statut": "non_verifie",
+    "urlFinale": "https://www.olivet.fr/fr",
+    "titrePage": "Bienvenue | Olivet",
+    "anneePresente": true,
+    "verificationDate": "non_confirmee",
+    "dateCorrespondante": false,
+    "dateURLContradictoire": false,
+    "heureCorrespondante": false,
+    "plateformeBilletterie": false,
+    "statutReservation": "a_verifier"
+  },
+  {
+    "id": "5636074",
+    "titre": "FESTISOL 2026",
+    "date": "2026-11-14T13:00:00+00:00",
+    "lienOriginal": "https://www.festivaldessolidarites.org/evenements/?acteur=&date=&mots-cles=&departement=45",
+    "statut": "non_verifie",
+    "urlFinale": "https://www.festivaldessolidarites.org/evenements/?acteur=&date=&mots-cles=&departement=45",
+    "titrePage": "Événements - Festival des Solidarités",
+    "anneePresente": true,
+    "verificationDate": "non_confirmee",
+    "dateCorrespondante": false,
+    "dateURLContradictoire": false,
+    "heureCorrespondante": false,
+    "plateformeBilletterie": false,
+    "statutReservation": "a_verifier"
+  },
+  {
+    "id": "90339842",
+    "titre": "Forum Lecture",
+    "date": "2026-11-14T13:00:00+00:00",
+    "lienOriginal": "https://www.olivet.fr/fr/forumlecture",
+    "statut": "candidat_pertinent",
+    "urlFinale": "https://www.olivet.fr/fr/forumlecture",
+    "titrePage": "Forum lecture | Olivet",
+    "anneePresente": true,
+    "verificationDate": "non_confirmee",
+    "dateCorrespondante": false,
+    "dateURLContradictoire": false,
+    "heureCorrespondante": false,
+    "plateformeBilletterie": false,
+    "statutReservation": "a_verifier"
+  },
+  {
+    "id": "90339842",
+    "titre": "Forum Lecture",
+    "date": "2026-11-14T13:00:00+00:00",
+    "lienOriginal": "https://www.epe45.fr/product-page/forum-lecture-2026",
+    "statut": "candidat_pertinent",
+    "urlFinale": "https://www.epe45.fr/product-page/forum-lecture-2026",
+    "titrePage": "FORUM LECTURE 2026 | Epeloiret",
+    "anneePresente": true,
+    "verificationDate": "non_confirmee",
+    "dateCorrespondante": false,
+    "dateURLContradictoire": false,
+    "heureCorrespondante": false,
+    "plateformeBilletterie": false,
+    "statutReservation": "a_verifier"
+  },
+  {
+    "id": "35596848",
+    "titre": "Rendez-vous en salle PC Gamers",
+    "date": "2026-11-14T13:30:00+00:00",
+    "lienOriginal": "https://mediatheques.orleans.fr/cms/articleview/open_agenda_uid/35596848",
+    "statut": "erreur",
+    "message": "TypeError: fetch failed"
+  },
+  {
+    "id": "71460081",
+    "titre": "Atelier : Des lignes de code pour faire vibrer, les notes de musique !",
+    "date": "2026-11-14T14:00:00+00:00",
+    "lienOriginal": "https://mediatheques.orleans.fr/cms/articleview/open_agenda_uid/71460081",
+    "statut": "erreur",
+    "message": "TypeError: fetch failed"
+  }
+]
