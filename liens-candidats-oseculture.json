@@ -1,0 +1,72 @@
+[
+  {
+    "id": "2548389",
+    "titre": "La Passerelle - Inavouable",
+    "date": "2026-11-27T19:30:00+00:00",
+    "url": "https://billetterie.fleurylesaubrais.fr/agenda/322-INAVOUABLE",
+    "statut": "a_verifier",
+    "dateCorrespondante": true,
+    "heureCorrespondante": false,
+    "plateformeBilletterie": false
+  },
+  {
+    "id": "45683430",
+    "titre": "PICHE +ANÉTHA",
+    "date": "2026-11-27T19:30:00+00:00",
+    "url": "https://www.lastrolabe.org/agenda/piche-carre-1ere-partie/",
+    "statut": "a_verifier",
+    "dateCorrespondante": false,
+    "heureCorrespondante": false,
+    "plateformeBilletterie": false
+  },
+  {
+    "id": "99185505",
+    "titre": "Concert Hommage the Beatles",
+    "date": "2026-11-27T20:00:00+00:00",
+    "url": "https://my.weezevent.com/concert-hommage-aux-beatles",
+    "statut": "a_verifier",
+    "dateCorrespondante": false,
+    "heureCorrespondante": false,
+    "plateformeBilletterie": true
+  },
+  {
+    "id": "87336237",
+    "titre": "Atelier portés acrobatiques et voix - COLLECTIF XY",
+    "date": "2026-11-28T09:00:00+00:00",
+    "url": "https://scenenationale-orleans.fr/agenda/atelier-portes-acrobatiques-et-voix",
+    "statut": "a_verifier",
+    "dateCorrespondante": false,
+    "heureCorrespondante": false,
+    "plateformeBilletterie": false
+  },
+  {
+    "id": "11369283",
+    "titre": "ATELIER COCOONING MAINS",
+    "date": "2026-11-28T09:00:00+00:00",
+    "url": "https://www.billetweb.fr/soiree-speciale-mes-mains-sont-belles1?fbclid=IwY2xjawU-FglleHRuA2FlbQIxMABwZG9mAWJyaWQRMUpxeXd2M0gzb0xlQTZhblZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEePOAej5dXmleLKUGRusD7dZ2jjH_XR2BU-U7TWG5IOIfDE-a-C-Z7NaY0KZg_aem_ge6Cv_bhCy3ZevVZpGoYAQ",
+    "statut": "a_verifier",
+    "dateCorrespondante": false,
+    "heureCorrespondante": false,
+    "plateformeBilletterie": true
+  },
+  {
+    "id": "65450802",
+    "titre": "Café Réparation Numérique",
+    "date": "2026-11-28T12:00:00+00:00",
+    "url": "https://labomedia.org/samedi-28-novembre-2026-cafe-reparation-numerique/",
+    "statut": "a_verifier",
+    "dateCorrespondante": true,
+    "heureCorrespondante": false,
+    "plateformeBilletterie": false
+  },
+  {
+    "id": "2807725",
+    "titre": "Noël à Orléans : si l'histoire m'était contée",
+    "date": "2026-11-28T14:00:00+00:00",
+    "url": "https://reservation.tourisme-orleansmetropole.com/noel-a-orleans-si-l-histoire-m-etait-contee.html",
+    "statut": "a_verifier",
+    "dateCorrespondante": false,
+    "heureCorrespondante": false,
+    "plateformeBilletterie": false
+  }
+]
